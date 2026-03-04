@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+log.txt
+metrics_log.csv
+
+# Database
+engine.db
+
+# Generated datasets
+datasets/
+
+# Engine output folders
+destino-audios/
+destino-loops/
+destino-mixes/
+destino-samples/
+
+# OS
+.DS_Store
+Thumbs.db

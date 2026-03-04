@@ -1,0 +1,4 @@
+2026-02-19 19:07:04 | MOVIDO | sample1.mp3 | pasta=destino=samples
+2026-02-19 19:50:42 | MOVIDO | [Material de Apoio] Samples.ipynb.ipynb | pasta=destino=samples
+2026-02-21 21:12:33 | MOVIDO | sample1 - Copia - Copia.mp3 | pasta=destino=samples
+2026-02-21 21:39:16 | MOVIDO | sample1 - Copia (2) - Copia.mp3 | pasta=destino=samples

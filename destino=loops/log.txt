@@ -1,0 +1,2 @@
+2026-02-19 19:01:57 | MOVIDO | loop.mp3 | pasta=destino=loops
+2026-02-26 13:17:15 | MOVIDO | loopvailayza - Copia.txt | pasta=destino=loops

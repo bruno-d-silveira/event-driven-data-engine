@@ -95,6 +95,67 @@ Tracks queue size and processing statistics.
 **Dataset Builder**  
 Transforms engine events into structured datasets using Parquet.
 
+
+Transforms engine events into structured datasets using Parquet.
+
 ---
 
 ## System Flow
+Filesystem
+↓
+Watcher
+↓
+EventBus
+↓
+WorkerPool
+↓
+Metrics
+↓
+Dataset Builder
+↓
+Parquet datasets
+
+
+---
+
+## Technologies Used
+
+- Python
+- SQLite
+- PyArrow / Parquet
+
+---
+
+## Current Status
+
+This project is still evolving as part of my learning process.
+
+I am currently exploring topics such as:
+
+- event-driven architectures
+- concurrent processing
+- data pipelines
+- machine learning dataset generation
+
+Future experiments may include:
+
+- event replay systems
+- pipeline monitoring dashboards
+- automated dataset generation for ML experiments
+- integration with audio processing workflows
+
+---
+
+## Final Note
+
+I consider this project an experiment.
+
+It started as a simple automation idea for organizing audio files, but it quickly turned into a learning playground for understanding how event-driven systems work.
+
+I am still at the beginning of this journey, but building this engine has already taught me a lot about system design, debugging, and thinking about software architecture.
+
+---
+
+## Author
+
+Bruno Duarte da Silveira

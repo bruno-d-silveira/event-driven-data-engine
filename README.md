@@ -101,18 +101,18 @@ Transforms engine events into structured datasets using Parquet.
 ---
 
 ## System Flow
-Filesystem
-↓
+Filesystem 
+
 Watcher
-↓
+
 EventBus
-↓
+
 WorkerPool
-↓
+
 Metrics
-↓
+
 Dataset Builder
-↓
+
 Parquet datasets
 
 
